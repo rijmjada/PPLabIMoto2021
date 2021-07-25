@@ -1,0 +1,109 @@
+# depslib dependency file v1.0
+1627234949 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\moto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+
+1627142753 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\servicios.c
+	"servicios.h"
+
+1626884556 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\tipos.c
+	"tipos.h"
+
+1627054900 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\color.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"color.h"
+
+1627235427 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"moto.h"
+	"servicios.h"
+	"tipos.h"
+	"color.h"
+	"fecha.h"
+	"hardcodeo.h"
+	"Genericas.h"
+	"informes.h"
+	"trabajo.h"
+	"cliente.h"
+
+1627234520 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\moto.h
+	"tipos.h"
+	"servicios.h"
+	"color.h"
+	"Genericas.h"
+	"cliente.h"
+
+1627142851 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\servicios.h
+	"moto.h"
+
+1626884598 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\tipos.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1626624785 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\fecha.c
+
+1627054281 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\color.h
+
+1627235483 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\fecha.h
+
+1627235483 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\hardcodeo.h
+	"moto.h"
+	"servicios.h"
+	"tipos.h"
+	"color.h"
+	"fecha.h"
+	"trabajo.h"
+	"cliente.h"
+
+1627235114 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"hardcodeo.h"
+	"cliente.h"
+
+1627235086 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\genericas.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	<Ctype.h>
+	"Genericas.h"
+
+1627052304 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\genericas.h
+
+1627235231 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\informes.c
+	"informes.h"
+
+1627235231 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\informes.h
+	"tipos.h"
+	"servicios.h"
+	"color.h"
+	"Genericas.h"
+	"trabajo.h"
+
+1626879921 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+
+1626879251 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\trabajo.h
+	"fecha.h"
+	"moto.h"
+
+1627234397 source:c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\cliente.c
+	"cliente.h"
+
+1627234949 c:\users\administrador\desktop\nueva carpeta\ordenar\bicicletas\cliente.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
